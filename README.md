@@ -1,3 +1,3 @@
 # crypto-app
 
-[Live demo]()
+[Live demo](https://crypto-app-theta.vercel.app/)
